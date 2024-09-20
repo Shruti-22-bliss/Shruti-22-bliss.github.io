@@ -56,4 +56,4 @@ anomalies. </p>
 <a href="https://github.com/Shruti-22-bliss/Shruti-22-bliss.github.io/edit/main/README.md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ambrishpathak" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/shrutikaraw22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AmbrishPathak" height="30" width="40" />
 <a href="https://www.kaggle.com/shrutikarawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ambrishpathak01" height="30" width="40" /></a>
-</p>
+
