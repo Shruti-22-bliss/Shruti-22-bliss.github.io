@@ -1,4 +1,4 @@
-| [Home](https://shruti-22-bliss.github.io/)        | [Projects](https://)          | [Certification](https://) |  [Resume](https:) | [Get in Touch](https://) |
+| [Home](https://shruti-22-bliss.github.io/)        | [Projects](https://)          | [Certification](https://) |  [Resume]([https:](https://drive.google.com/file/d/1mwgGFi7-rNQtiHeTquZZD92eYvCplzGI/view?usp=drive_link)) | [Get in Touch](https://) |
 
 
 
