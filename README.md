@@ -1,54 +1,59 @@
-| [Home](https://shruti-22-bliss.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/Certification.html) |  [Resume](https://drive.google.com/file/d/1VUHLBe9zdro6d3hPK4NtHljHCJAkY2yI/view) | [Get in Touch](https://ambrishpathak.github.io/contact.html) |
+| [Home](https://shruti-22-bliss.github.io/)        | [Projects](https://)          | [Certification](https://) |  [Resume](https:) | [Get in Touch](https://) |
 
 
 
 ## M.S. Data Science Student at PACE University
 
-#### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
+#### Technical Skills: Python, SQL, Cloud Computing, Machine Learning, Tableau, Storytelling and Visualizations 
 
 ## Profile
-<p align="justify">Leveraging 5+ years of experience in IT support, consulting, and administration, I've honed strong analytical, problem-solving, and technical skills. This experience has equipped me to effectively manage complex systems, troubleshoot issues, and communicate technical solutions clearly. I'm passionate about applying these skills to the field of data science.</p>
+<p align="justify">.Data Analyst Intern with 5 months of experience supporting research and development of AI/ML solutions. Skilled in integrating data from diverse sources for comprehensive insights and successful prototype development, evidenced by successfully developing 3 Tableau dashboards enabling real-time tracking of 15 KPIs.</p>
 
 ## Education
-  - M.S. Data Science | Stevens Institute of Technology (Dec 2025)
-  - B.S. Information Technology | University of Mumbai (May 2019)
+  - M.S. Data Science | Pace University (Dec 2025)
+  - B.S. Data Science | University of Mumbai (May 2023)
 
 ## Work experience
-*IT Engineer @ INFORM GmbH (April 2023 - Present)*
+*Product Operation Analyst @ Imarticus Learning Pvt Ltd (July 2023 - October 2023)*
 
-- <p align="justify">Managed 5+ clients as an IT Engineer and Consultant at INFORM GmbH, demonstrating proficiency in troubleshooting issues, application configuration, feature testing, and software delivery.</p>
-- <p align="justify">Resolved 100+ issues monthly via Jira across diverse technologies, including Windows Server, Linux, and AWS cloud environments.</p>
-- <p align="justify">Developed and modified scripts (Perl, SQL, PowerShell) and configured reporting tools (Power BI, BIS), improving reporting efficiency by 25%</p>
-- <p align="justify">Maintained 100+ pods/containers in a cloud environment, optimizing resource utilization and reducing costs by 15%.</p>
-- <p align="justify"> Provided 24/7 on-call support, maintaining a 95% customer satisfaction rate through effective communication and problem-solving.</p>
-- <p align="justify"> Collaborated with development teams to analyze system KPIs and implement improvements, minimizing downtime by 20%.</p>
+- <p align="justify">Conducted 3-month market research, analyzing data from 20+ sources, including industry reports and competitor analysis. Produced detailed reports with recommendations.</p>
+- <p align="justify">Developed 3 Tableau dashboards, integrating data from 8 sources (CRM, web analytics, sales databases), enabling realtime tracking of 15 KPIs.</p>
+- <p align="justify">Facilitated communication among product management, design, and engineering teams, reducing miscommunication related delays by 20%. Influenced 3 strategic decisions, resulting in a 15% increase in product alignment with market 
+demands</p>
 
-*Engineer Cloud and Infrastructure Services @ LTIMindtree (December 2019 - March 2023)*
-- <p align="justify">Ensured service uptime at Nexi Group by monitoring critical infrastructure (alert consoles & payment consoles), managing incidents with ServiceNow, and providing first-level troubleshooting across diverse technologies.</p>
-- <p align="justify">Proficient in resolving 100+ issues per month across Linux, VMware, Windows Server, Oracle, MS-SQL, MongoDB, Middleware, and Backup systems.</p>
-- <p align="justify">Managed database backup, recovery, and performance monitoring for Oracle, MS-SQL, and MongoDB ensuring 99% uptime.</p>
-- <p align="justify">Conducted service management and maintenance for Middleware and Linux, achieving 95% service availability and reducing system downtime by 15%. Handled server provisioning, resource management, reducing server deployment time by 30%.</p>
+*Data Analytics Intern @ CredoHire Pvt Ltd  (November 2021 - January 2022)*
+- <p align="justify">Enhanced candidate evaluation and recruitment efficiency by 30% through the implementation of CHI screening formulas, resulting in the identification of top-tier talent aligned with organizational objectives.</p>
+- <p align="justify">Increased decision-making precision by 40% through the creation of an impactful dashboard using Google Data Studio and Excel, featuring interactive visualizations including Radar Charts, Heat maps, and Frequency Distributions.</p>
+
+*Data Analyst @ SuccessR HR Tech Pvt Ltd  (December 2020 - March 2021)*
+- <p align="justify">Led the analysis and preprocessing of 10,000 datasets, cleaning and organizing the data, handling missing values, and separating null data and duplicates to ensure data suitability for the algorithm.</p>
+- <p align="justify">Developed three regression models (decision tree, random forest) that achieved similar accuracies, with the final model performing at 60% accuracy, significantly improving predictions compared to having no model.</p>
+- <p align="justify">Played a key role in the project's success by contributing expertise and dedication to data analysis, preprocessing, and model development, leading to accurate predictions about hiring interest rates.</p>
 
 ## Projects 
 ### Time Series Forecasting model in Python using the FBProphet module (May 2024) | [Colab Link](https://colab.research.google.com/drive/1l7wYgtDoStbtl2oIFVjJEizdraaZgAjc?usp=sharing#scrollTo=qmkjgc6weFY8)
 <p align="justify">Developed a predictive model for New York City boroughs' electric consumption using daily data from 2010 to 2023. Aggregated data into monthly and yearly means, trained FBProphet models, and forecasted consumption for future periods. Tuned model parameters for accuracy and evaluated performance using MAE, MAPE, and R² metrics. Visualized results with historical and predicted data graphs.</p>
 
-### Stock Foretell using Deep Learning (April 2019)
-<p align="justify">Developed LSTM-based deep learning model using 20 years of historical data from the National Stock Exchange to forecast Nifty-50 index stock prices, showcasing deep learning's potential in financial forecasting</p>
+### Adult Income Dataset (March 2024 - April 2024)
+<p align="justify">Analyzed Adult Census Income from UCI Machine Learning Repository to predict whether an individual earns over $70K annually. </p>
+<p align="justify">Developed Logistic Regression from scratch and conducted performance comparison with sci-kit learn’s built-in logistic function. </p>
 
-## Achievements and Publications 
-- <p align="justify">Led a 15+ member team at LTIMindtree for 2 months, managing shift rosters, implementing improvement plans, conducting training sessions and Successfully obtained long-pending sign-offs from the customer, garnering recognition from management, and receiving the "Pat on the Back" award.</p>
-- <p align="justify"> Secured 2nd Rank in the First Year of B.S. Information Technology examination during the academic year 2016-17.</p>
-- <p align="justify"> Successfully published and presented and research paper “Evolution of online shopping: E-commerce” in the journal “The Vibrant India”</p>
+### Mental Health at Workplace (Python)  (February 2024 - April 2024)
+<p align="justify">Designed the notebook to conduct Exploratory Data Analysis and derive logical conclusions from the data. </p>
+<p align="justify">Implemented logistic regression and decision tree models based on optimal variables and achieved an accuracy of 75%.</p>
+
+### Exploratory Data Analysis in R (R Markdown)   (January 2022 - April 2022)
+<p align="justify">Incorporated World Bank data to analyze global suicide rates between 1985-2015, identifying patterns and 
+anomalies. </p>
+
+### Airbnb Home Listing Analysis (Tableau)   (December 2021 - January 2022)
+<p align="justify">Analyzed Airbnb Listing, Reviews, and Calendar Data from 3600+ locations to visualize rental prices based on location data using Tableau, facilitating the identification of optimal locations for property investment. </p>
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ambrish-pathak-07aug1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ambrishpathak" height="30" width="40" /></a>
-<a href="https://github.com/AmbrishPathak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ambrishpathak" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/AmbrishPathak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AmbrishPathak" height="30" width="40" />
-<a href="https://www.kaggle.com/ambrishpathak01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ambrishpathak01" height="30" width="40" /></a>
-<a href="https://x.com/im_mrpathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_mrpathak" height="30" width="40" /></a>
-<a href="https://www.instagram.com/im_mr.pathak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_mr.pathak" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/ambrish.pathak.501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AmbrishPathak" height="30" width="40" /></a>
-</a>
+<a href="https://www.linkedin.com/in/shruti-rawat22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShrutiRawat" height="30" width="40" /></a>
+<a href="https://github.com/Shruti-22-bliss/Shruti-22-bliss.github.io/edit/main/README.md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ambrishpathak" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shrutikaraw22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AmbrishPathak" height="30" width="40" />
+<a href="https://www.kaggle.com/shrutikarawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ambrishpathak01" height="30" width="40" /></a>
 </p>
